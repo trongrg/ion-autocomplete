@@ -4,7 +4,9 @@
   "description": "A configurable Ionic directive for an autocomplete dropdown",
   "main": [
     "./dist/ion-autocomplete.js",
-    "./dist/ion-autocomplete.css"
+    "./dist/ion-autocomplete.min.js",
+    "./dist/ion-autocomplete.css",
+    "./dist/ion-autocomplete.min.css"
   ],
   "license": "MIT",
   "ignore": [
